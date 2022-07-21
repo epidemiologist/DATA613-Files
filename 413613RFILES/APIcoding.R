@@ -6,7 +6,7 @@ library(ggplot2)
 
 # Web Scraping using an API
 # What is an API ?
-
+James Dickens
 # API stands for Application Programming Interface, which is
 # a software intermediary that allows two applications to talk to each
 # other. Each time you use an app like Facebook, send an instant
